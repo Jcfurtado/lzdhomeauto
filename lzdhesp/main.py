@@ -1,8 +1,8 @@
 # This is your main script.
 
 
-essid = 'AG45'
-psw = 'fortyfive'
+essid = '***'
+psw = '***'
 
 def do_connect():
     import network
